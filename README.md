@@ -24,6 +24,9 @@
   return response.status(201).send();
 ```
 <hr>
-<h1 align="center">
-<img alt="Duduxs" src="https://github-readme-stats.codestackr.vercel.app/api?username=vitorsemidio-dev&show_icons=true&hide_border=true&theme=dark" />
-</h1>
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitorsemidio-dev&show_icons=true&theme=dracula&custom_title=Vitor%20Emídio)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsemidio-dev&theme=dracula&layout=compact&custom_title=Minhas%20linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
+
