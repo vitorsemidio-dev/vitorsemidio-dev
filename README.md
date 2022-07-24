@@ -1,5 +1,7 @@
 <h2 align="left">Olá 👋! Sou Vitor Emídio</h2>
 
+<img src="https://komarev.com/ghpvc/?username=vitorsemidio-dev&color=21b2de" alt="Profile views" />
+
 ###
 
 <div align="center">
